@@ -1,8 +1,5 @@
 # Penetration-Testing-Framework-for-Web-Applications
 A framework for conducting penetration tests on web applications, including tools and methodologies for identifying vulnerabilities, exploiting weaknesses, and reporting findings.
-
-# Conducting a Security Assessment or Penetration Test on a Domain
-
 If you're looking to conduct a security assessment or penetration test on this domain, here are some steps you can take:
 
 ## 1. Information Gathering
